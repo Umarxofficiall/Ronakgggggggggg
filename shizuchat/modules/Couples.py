@@ -38,7 +38,7 @@ COUPLES_PIC = "https://envs.sh/n4c.jpg"
 C = """
 ✧ ᴄᴏᴜᴘʟᴇs ᴏғ ᴅᴀʏ ✧
 ❍═══════════════════❍
-{} + ( PGM🎀😶 (https://t.me/Chalnayaaaaaarr) + 花火 (https://t.me/zd_sr07) + ゼロツー (https://t.me/wewewe_x) ) = 💞
+{} + ( PGM🎀😶 (https://t.me/{}) + 花火 (https://t.me/{}) + ゼロツー (https://t.me/{}) ) = 💞
 ❍═══════════════════❍
 ɴᴇᴡ ᴄᴏᴜᴘʟᴇ ᴏғ ᴛʜᴇ ᴅᴀʏ ᴄᴀɴ ʙᴇ ᴄʜᴏsᴇɴ ᴀᴛ 12AM {}
 """
