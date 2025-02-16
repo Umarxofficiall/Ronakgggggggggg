@@ -30,6 +30,6 @@ BANNED_USERS = filters.user()
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Badhacker98/ShizuChat_Bot",
+    "https://github.com/Umarxofficiall/ronakgggggsgsggg",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
