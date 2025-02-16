@@ -5,7 +5,7 @@ from pyrogram import Client, filters
 
 
 START = """**
-{} ᴛʜᴇ ꜱᴜᴘᴇʀғᴀꜱᴛ ᴄʜᴀᴛʙᴏᴛ 💞
+𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚…}{😊\n\n 𝙄𝙩'𝙨 𝙨𝙤 𝙣𝙞𝙘𝙚 𝙩𝙤 𝙛𝙞𝙣𝙖𝙡𝙡𝙮 𝙢𝙚𝙚𝙩 𝙮𝙤𝙪. 𝙏𝙚𝙡𝙡 𝙢𝙚, 𝙬𝙝𝙖𝙩'𝙨 𝙮𝙤𝙪𝙧 𝙛𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙬𝙖𝙮 𝙩𝙤 𝙨𝙥𝙚𝙣𝙙 𝙖 𝙘𝙤𝙯𝙮 𝙏𝙞𝙢𝙚?\n𝙄'𝙢 𝙖𝙡𝙡 𝙮𝙤𝙪𝙧𝙨 𝙣𝙤𝙬. 💞
 
  ➪ ᴡʜᴀᴛ ɪ ᴄᴀɴ ᴅᴏ:
 ┏━━━━━━━━━━━━━━━┓
@@ -22,8 +22,8 @@ START = """**
 ┗━━━━━•❃°•°❀•━━━━━┛
 
 ╔═══════════════╗
- ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Badhacker98/ShizuChat_Bot/fork)
- ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll)
+ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Spark_Developer)
+ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/Spark_Developer)
 ╚═══════════════╝
 **"""
 
@@ -34,11 +34,11 @@ OWNER = f"""**
 ──────────────
 ➻ /restart  ʀᴇsᴛᴀʀᴛ &  ᴜᴘᴅᴀᴛᴇ ʀᴇᴘᴏ.  
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝐒𝐩𝐚𝐫𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫](https://t.me/Spark_Developer) 💞**
 """
 
 HELP_READ = f"""**
-Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/THE_VIP_BOY).
+Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/Spark_Developer_Bots).
 
 Aʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ: /**
 """
@@ -64,7 +64,7 @@ TOOLS_DATA_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /rankings /overall ᴜsᴇʀ ᴍsɢ ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝐒𝐩𝐚𝐫𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫](https://t.me/Spark_Developer) 💞**
 """
 
 AIBOT_READ = f"""**
@@ -78,7 +78,7 @@ AIBOT_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /blackbox ᴡʀɪᴛᴇ ꜱɪᴍᴘʟᴇ ꜰʟᴀꜱᴋ ᴀᴘᴘ ᴄᴏᴅᴇ
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝐒𝐩𝐚𝐫𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫](https://t.me/Spark_Developer) 💞**
 """
 
 CHATBOT_READ = f"""**
@@ -90,10 +90,10 @@ CHATBOT_READ = f"""**
 ──────────────
 ➻ /resetlang, /nolang - ʀᴇsᴇᴛs ᴛʜᴇ ʙᴏᴛ's ʟᴀɴɢᴜᴀɢᴇ ᴛᴏ ᴍɪxᴇᴅ ʟᴀɴɢᴜᴀɢᴇ.
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝐒𝐩𝐚𝐫𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫](https://t.me/Spark_Developer) 💞**
 """
 
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{shizuchat.name}](https://t.me/{shizuchat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/Badhacker98/ShizuChat_Bot/fork)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{shizuchat.name}](https://t.me/{shizuchat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://t.me/Spark_Developer)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
 
 ADMIN_READ2 = f"""**
 ๏ ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ {shizuchat.mention}:
@@ -120,7 +120,7 @@ ADMIN_READ2 = f"""**
 ──────────────
 ➻ ᴜsᴇ /unmute - ᴜɴᴍᴜᴛᴇ ᴀ ᴜꜱᴇʀ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝐒𝐩𝐚𝐫𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫](https://t.me/Spark_Developer) 💞**
 """
 
 ADMIN_READ = f"""**
@@ -142,7 +142,7 @@ ADMIN_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /warns - ꜱʜᴏᴡ ᴡᴀʀɴɪɴɢ ᴏꜰ ᴀ ᴜꜱᴇʀ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝐒𝐩𝐚𝐫𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫](https://t.me/Spark_Developer) 💞**
 """
 
 ABOUT_READ = f"""
