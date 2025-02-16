@@ -58,14 +58,20 @@ EMOJIOS = [
     "💕",
     "💘",
     "💗",
+    "🤍",
+    "🤎",
+    "💖",
+    "🩵",
 ]
 
 
-BOT = "https://files.catbox.moe/6px3gg.jpg"
+BOT = "https://envs.sh/Q8m.jpg"
 IMG = [
-    "https://files.catbox.moe/6px3gg.jpg",
-    "https://files.catbox.moe/6px3gg.jpg",
-    "https://files.catbox.moe/6px3gg.jpg",
+    "https://envs.sh/Q8m.jpg",
+    "https://envs.sh/Q8M.jpg",
+    "https://envs.sh/Q8y.jpg",
+    "https://envs.sh/Q8V.jpg",
+    "https://envs.sh/Q8x.jpg",
 ]
 
 
@@ -153,10 +159,10 @@ async def welcomejej(client, message: Message):
                         chat.photo.big_file_id, file_name=f"chatpp{chat.id}.png"
                     )
                     chat_photo = (
-                        groups_photo if groups_photo else "https://envs.sh/IL_.jpg"
+                        groups_photo if groups_photo else "https://envs.sh/Q8m.jpg"
                     )
                 except AttributeError:
-                    chat_photo = "https://files.catbox.moe/6px3gg.jpg"
+                    chat_photo = "https://envs.sh/Q8m.jpg"
                 except Exception as e:
                     pass
 
