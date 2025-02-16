@@ -74,4 +74,4 @@ if __name__ == "__main__":
     flask_thread = threading.Thread(target=run_flask)
     flask_thread.start()
     asyncio.get_event_loop().run_until_complete(anony_boot())
-    LOGGER.info("Stopping shizuchat Bot...")
+    LOGGER.info("Stopping Ronak Bot...")
