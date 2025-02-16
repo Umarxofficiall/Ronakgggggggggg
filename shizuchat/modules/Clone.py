@@ -74,7 +74,7 @@ async def clone_txt(client, message):
         except BaseException as e:
             logging.exception("ᴇʀʀᴏʀ ᴡʜɪʟᴇ ᴄʟᴏɴɪɴɢ ʙᴏᴛ.")
             await mi.edit_text(
-                f"⚠️ <b>Error:</b>\n\n<code>{e}</code>\n\nꜰᴏʀᴡᴀʀᴅ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ @PBX_CHAT ꜰᴏʀ ᴀꜱꜱɪꜱᴛᴀɴᴄᴇ"
+                f"⚠️ <b>Error:</b>\n\n<code>{e}</code>\n\nꜰᴏʀᴡᴀʀᴅ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ @Spark_Developer_Support_Bot ꜰᴏʀ ᴀꜱꜱɪꜱᴛᴀɴᴄᴇ"
             )
     else:
         await message.reply_text("ᴘʀᴏᴠɪᴅᴇ ʙᴏᴛ ᴛᴏᴋᴇɴ ᴀꜰᴛᴇʀ /clone ᴄᴏᴍᴍᴀɴᴅ ꜰʀᴏᴍ @Botfather.")
