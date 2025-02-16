@@ -4,7 +4,6 @@ from pyrogram import Client
 
 import config
 
-from ..logging import LOGGER
 
 TEMP_MONGODB = "mongodb+srv://Aigf:AiGFChatbot@cluster0.sqwys.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
