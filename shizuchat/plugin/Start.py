@@ -41,13 +41,19 @@ from shizuchat.plugin.helpers import (
 )
 
 
-GSTART = """**ʜᴇʏ ᴅᴇᴀʀ {}**\n\n**ᴛʜᴀɴᴋs ғᴏʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ɢʀᴏᴜᴘ ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ʟᴀɴɢᴜᴀɢᴇ ʙʏ ᴄʟɪᴄᴋ ᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs.**\n**ᴄʟɪᴄᴋ ᴀɴᴅ sᴇʟᴇᴄᴛ ʏᴏᴜʀ ғᴀᴠᴏᴜʀɪᴛᴇ ʟᴀɴɢᴜᴀɢᴇ ᴛᴏ sᴇᴛ ᴄʜᴀᴛ ʟᴀɴɢᴜᴀɢᴇ ғᴏʀ ʙᴏᴛ ʀᴇᴘʟʏ.**\n\n**ᴛʜᴀɴᴋ ʏᴏᴜ ᴘʟᴇᴀsᴇ ᴇɴɪᴏʏ.**"""
+
+
+
+
+GSTART = """**𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚… 😊\n\n 𝙄𝙩'𝙨 𝙨𝙤 𝙣𝙞𝙘𝙚 𝙩𝙤 𝙛𝙞𝙣𝙖𝙡𝙡𝙮 𝙢𝙚𝙚𝙩 𝙮𝙤𝙪. 𝙏𝙚𝙡𝙡 𝙢𝙚, 𝙬𝙝𝙖𝙩'𝙨 𝙮𝙤𝙪𝙧 𝙛𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙬𝙖𝙮 𝙩𝙤 𝙨𝙥𝙚𝙣𝙙 𝙖 𝙘𝙤𝙯𝙮 𝙏𝙞𝙢𝙚?\n𝙄'𝙢 𝙖𝙡𝙡 𝙮𝙤𝙪𝙧𝙨 𝙣𝙤𝙬.**
+
+❤️ Made By : @Spark_Developer 💗"""
 STICKER = [
-    "CAACAgUAAx0CepnpNQABAQ0ZZwi4keVWGDS7Zc4Ugl07nazStioAAoYKAAIFp0FW4tWKLEhqx54eBA",
-    "CAACAgUAAx0CepnpNQABAQ0bZwi4ty5H4bQFRiADbIDRjvmqrvwAAs8KAAISAAFwVwABdUaWHySE3B4E",
-    "CAACAgUAAx0CepnpNQABAQ0aZwi4tLgnRHxBeCGoKYkHaOtihKgAAj4MAAIfJXFXhnQ9Zw3NF_AeBA",
+    "CAACAgUAAxkBAAIE42eyNQ5V608bXOOnN_lCERxE1eOGAAKAEAAC0EZQVjdIGB_ef-xEHgQ",
+    "CAACAgUAAxkBAAIE52eyNa5GVjNJW9X5ubAWMSgrQ_2sAAI_EAACN4fgVjn4BQe4vF1LHgQ",
+    "CAACAgUAAxkBAAIE62eyNhCKA5LaESN7JKOot3pKAsXsAALbCgACPAcxVTDDlF29Z6iiHgQ",
     
-  "CAACAgUAAx0CepnpNQABAQ0cZwi4vvVDhrmnrLZJjKZXwZHm6J8AAogMAAKn83BXvz4RP6rTTEYeBA",
+  "CAACAgUAAxkBAAIE72eyNhm20JmHcb3mpaB1m-VxDtzBAALRCgACQr05VT6R6TOKr5vyHgQ",
 ]
 
 
@@ -60,14 +66,14 @@ EMOJIOS = [
 ]
 
 
-BOT = "https://files.catbox.moe/6px3gg.jpg"
+BOT = "https://envs.sh/Q8m.jpg"
 IMG = [
-    "https://files.catbox.moe/6px3gg.jpg",
-    "https://files.catbox.moe/6px3gg.jpg",
-    "https://files.catbox.moe/6px3gg.jpg",
+    "https://envs.sh/Q8m.jpg",
+    "https://envs.sh/Q8M.jpg",
+    "https://envs.sh/Q8y.jpg",
+    "https://envs.sh/Q8V.jpg",
+    "https://envs.sh/Q8x.jpg",
 ]
-
-
 
 from shizuchat import db
 
