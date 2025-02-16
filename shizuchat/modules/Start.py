@@ -40,7 +40,9 @@ from shizuchat.modules.helpers import (
     languages,
 )
 
-GSTART = """**ʜᴇʏ ᴅᴇᴀʀ {}**\n\n**ᴛʜᴀɴᴋs ғᴏʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ɢʀᴏᴜᴘ ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ʟᴀɴɢᴜᴀɢᴇ ʙʏ ᴄʟɪᴄᴋ ᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs.**\n**ᴄʟɪᴄᴋ ᴀɴᴅ sᴇʟᴇᴄᴛ ʏᴏᴜʀ ғᴀᴠᴏᴜʀɪᴛᴇ ʟᴀɴɢᴜᴀɢᴇ ᴛᴏ sᴇᴛ ᴄʜᴀᴛ ʟᴀɴɢᴜᴀɢᴇ ғᴏʀ ʙᴏᴛ ʀᴇᴘʟʏ.**\n\n**ᴛʜᴀɴᴋ ʏᴏᴜ ᴘʟᴇᴀsᴇ ᴇɴɪᴏʏ.**"""
+GSTART = """**𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚…}{😊\n\n 𝙄𝙩'𝙨 𝙨𝙤 𝙣𝙞𝙘𝙚 𝙩𝙤 𝙛𝙞𝙣𝙖𝙡𝙡𝙮 𝙢𝙚𝙚𝙩 𝙮𝙤𝙪. 𝙏𝙚𝙡𝙡 𝙢𝙚, 𝙬𝙝𝙖𝙩'𝙨 𝙮𝙤𝙪𝙧 𝙛𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙬𝙖𝙮 𝙩𝙤 𝙨𝙥𝙚𝙣𝙙 𝙖 𝙘𝙤𝙯𝙮 𝙏𝙞𝙢𝙚?\n𝙄'𝙢 𝙖𝙡𝙡 𝙮𝙤𝙪𝙧𝙨 𝙣𝙤𝙬.**
+
+❤️ Made By : @Spark_Developer 💗"""
 STICKER = [
     "CAACAgUAAx0CepnpNQABAQ0ZZwi4keVWGDS7Zc4Ugl07nazStioAAoYKAAIFp0FW4tWKLEhqx54eBA",
     "CAACAgUAAx0CepnpNQABAQ0bZwi4ty5H4bQFRiADbIDRjvmqrvwAAs8KAAISAAFwVwABdUaWHySE3B4E",
