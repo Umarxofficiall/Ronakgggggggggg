@@ -5,23 +5,23 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = "25742938"
+API_ID = "9972455"
 # -------------------------------------------------------------
-API_HASH = "b35b715fe8dc0a58e8048988286fc5b6"
+API_HASH = "5b1fd83b698e4e6670f3dcb053eecc06"
 # --------------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("BOT_TOKEN", "7699442900:AAG-G6K1J_ExrCnAYAw6MHsSjb224jMJo28")
 STRING1 = getenv("STRING_SESSION", None)
-DB_NAME = "shizuDB"
+DB_NAME = "ronakDB"
 MONGO_URL = getenv("MONGO_URL", None)
-OWNER_ID = int(getenv("OWNER_ID", "7009601543"))
-BOT_ID = int(getenv("BOT_ID", "8113054986"))
-SUPPORT_GRP = "PBX_CHAT"
-UPDATE_CHNL = "HEROKUBIN_01"
-OWNER_USERNAME = "ll_BAD_MUNDA_ll"
+OWNER_ID = int(getenv("OWNER_ID", "6170050819"))
+BOT_ID = int(getenv("BOT_ID", "7699442900"))
+SUPPORT_GRP = "Spark_Developer_Bots"
+UPDATE_CHNL = "Spark_Developer_Bots"
+OWNER_USERNAME = "Spark_Developer"
 TIME_ZONE = "Asia/Kolkata"
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002056907061"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002333236341"))
 # --------------------------------------------------------------
-SUDOERS = list(map(int, getenv("SUDOERS", "7009601543").split()))
+SUDOERS = list(map(int, getenv("SUDOERS", "7707866111").split()))
 # --------------------------------------------------------------
 
 ### DONT TOUCH or EDIT codes after this line
