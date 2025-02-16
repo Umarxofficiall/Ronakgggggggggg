@@ -1,4 +1,4 @@
-# BSDK KANG KARNE AYA HAI CRADIT DENA @https://t.me/ll_BAD_MUNDA_ll
+# BSDK KANG KARNE AYA HAI CRADIT DENA @https://t.me/Spark_Developer
 # VARNA GITHUB CHOD DUGA 
 
 
