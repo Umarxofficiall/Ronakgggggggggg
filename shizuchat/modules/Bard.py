@@ -23,7 +23,7 @@ async def bard_chat(bot, message):
         await bot.send_chat_action(message.chat.id, ChatAction.TYPING)
         x=response["results"]
         
-        await message.reply_text(f"{x}\n\n🌸  ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ [ʙᴀᴅ ᴍᴜɴᴅᴀ](https://t.me/{OWNER_USERNAME}) ||",reply_markup=InlineKeyboardMarkup(DEV_OP),quote=True)  
+        await message.reply_text(f"{x}\n\n🌸  ᴍᴀᴅᴇ ᴡɪᴛʜ **Love** ʙʏ [ʙᴀᴅ ᴍᴜɴᴅᴀ](https://t.me/{OWNER_USERNAME}) ||",reply_markup=InlineKeyboardMarkup(DEV_OP),quote=True)  
 
     except requests.exceptions.RequestException as e:
         pass
@@ -56,7 +56,7 @@ async def blackbox_chat(bot, message):
         await bot.send_chat_action(message.chat.id, ChatAction.TYPING)
         x=response["results"]
         
-        await message.reply_text(f"{x}\n\n🌸  ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ [ʙᴀᴅ ᴍᴜɴᴅᴀ](https://t.me/{OWNER_USERNAME}) ||",reply_markup=InlineKeyboardMarkup(DEV_OP),quote=True,disable_web_page_preview =True,parse_mode=ParseMode.MARKDOWN)  
+        await message.reply_text(f"{x}\n\n🌸  ᴍᴀᴅᴇ ᴡɪᴛʜ **Love** ʙʏ [ʙᴀᴅ ᴍᴜɴᴅᴀ](https://t.me/{OWNER_USERNAME}) ||",reply_markup=InlineKeyboardMarkup(DEV_OP),quote=True,disable_web_page_preview =True,parse_mode=ParseMode.MARKDOWN)  
         
             
     except requests.exceptions.RequestException as e:
