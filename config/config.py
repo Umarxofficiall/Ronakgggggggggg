@@ -12,7 +12,7 @@ API_HASH = "5b1fd83b698e4e6670f3dcb053eecc06"
 BOT_TOKEN = getenv("BOT_TOKEN", "7699442900:AAG-G6K1J_ExrCnAYAw6MHsSjb224jMJo28")
 STRING1 = getenv("STRING_SESSION", None)
 DB_NAME = "ronakDB"
-MONGO_URL = getenv("MONGO_URL", None)
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Aigf:AiGFChatbot@cluster0.sqwys.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 OWNER_ID = int(getenv("OWNER_ID", "6170050819"))
 BOT_ID = int(getenv("BOT_ID", "7699442900"))
 SUPPORT_GRP = "Spark_Developer_Bots"
