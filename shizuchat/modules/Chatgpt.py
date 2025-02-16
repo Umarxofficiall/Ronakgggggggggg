@@ -19,10 +19,10 @@ async def chat_gpt(bot, message):
         await bot.send_chat_action(message.chat.id, ChatAction.TYPING)
         if len(message.command) < 2:
             await message.reply_text(
-            "ᴇx. /ai ᴡʜᴇʀᴇ ɪs ɢᴏʟᴅᴇɴ ᴛᴇᴍᴘʟᴇ ?")
+            "ᴇx. /ai where is Mount Everest Located ?")
         else:
             a = message.text.split(' ', 1)[1]
             r=api.gemini(a)["results"]
-            await message.reply_text(f" {r} \n\n🌸  ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ [ʙᴀᴅ ᴍᴜɴᴅᴀ](https://t.me/{OWNER_USERNAME}) ||", parse_mode=ParseMode.MARKDOWN)     
+            await message.reply_text(f" {r} \n\n🌸  ᴍᴀᴅᴇ ᴡɪᴛʜ Love 💗 ʙʏ [ʙᴀᴅ ᴍᴜɴᴅᴀ](https://t.me/{OWNER_USERNAME}) ||", parse_mode=ParseMode.MARKDOWN)     
     except Exception as e:
         await message.reply_text(f"**ᴇʀʀᴏʀ: {e} ")
