@@ -45,7 +45,7 @@ from shizuchat.plugin.helpers import (
 
 
 
-GSTART = """**𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚… 😊\n\n 𝙄𝙩'𝙨 𝙨𝙤 𝙣𝙞𝙘𝙚 𝙩𝙤 𝙛𝙞𝙣𝙖𝙡𝙡𝙮 𝙢𝙚𝙚𝙩 𝙮𝙤𝙪. 𝙏𝙚𝙡𝙡 𝙢𝙚, 𝙬𝙝𝙖𝙩'𝙨 𝙮𝙤𝙪𝙧 𝙛𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙬𝙖𝙮 𝙩𝙤 𝙨𝙥𝙚𝙣𝙙 𝙖 𝙘𝙤𝙯𝙮 𝙏𝙞𝙢𝙚?\n𝙄'𝙢 𝙖𝙡𝙡 𝙮𝙤𝙪𝙧𝙨 𝙣𝙤𝙬.**
+GSTART = """**𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚…{}😊\n\n 𝙄𝙩'𝙨 𝙨𝙤 𝙣𝙞𝙘𝙚 𝙩𝙤 𝙛𝙞𝙣𝙖𝙡𝙡𝙮 𝙢𝙚𝙚𝙩 𝙮𝙤𝙪. 𝙏𝙚𝙡𝙡 𝙢𝙚, 𝙬𝙝𝙖𝙩'𝙨 𝙮𝙤𝙪𝙧 𝙛𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙬𝙖𝙮 𝙩𝙤 𝙨𝙥𝙚𝙣𝙙 𝙖 𝙘𝙤𝙯𝙮 𝙏𝙞𝙢𝙚?\n𝙄'𝙢 𝙖𝙡𝙡 𝙮𝙤𝙪𝙧𝙨 𝙣𝙤𝙬.**
 
 ❤️ Made By : @Spark_Developer 💗"""
 STICKER = [
@@ -136,10 +136,10 @@ async def welcomejej(client, message: Message):
                         chat.photo.big_file_id, file_name=f"chatpp{chat.id}.png"
                     )
                     chat_photo = (
-                        groups_photo if groups_photo else "https://envs.sh/IL_.jpg"
+                        groups_photo if groups_photo else "https://envs.sh/Q8m.jpg"
                     )
                 except AttributeError:
-                    chat_photo = "https://files.catbox.moe/6px3gg.jpg"
+                    chat_photo = "https://envs.sh/Q8m.jpg"
                 except Exception as e:
                     pass
 
