@@ -3,7 +3,7 @@
 </h2>
 
 </h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://envs.sh/Q8m.jpg">
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=❤️+sʜɪᴢᴜ😍+ᴄʜᴀᴛ+🌸+ʙᴏᴛ👻">
 
