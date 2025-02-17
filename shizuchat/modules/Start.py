@@ -346,7 +346,7 @@ async def ping(_, message: Message):
 
     ms = (datetime.now() - start).microseconds / 1000
     await loda.edit_text(
-        text=f"ʜᴇʏ ʙᴀʙʏ\n{shizuchat.name} ᴄʜᴀᴛʙᴏᴛ ɪꜱ ᴀʟɪᴠᴇ 💫 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴀ ᴘɪɴɢ ᴏꜰ\n\n**➥** `{ms}` ms\n**➲ ᴄᴘᴜ:** {CPU}\n**➲ ʀᴀᴍ:** {RAM}\n**➲ ᴅɪsᴋ:** {DISK}\n**➲ ᴜᴘᴛɪᴍᴇ »** {UP}\n\n<b>||**๏ ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ [ʙᴀᴅ ᴍᴜɴᴅᴀ](https://t.me/{OWNER_USERNAME})**||</b>",
+        text=f"ʜᴇʏ ʙᴀʙʏ\n{shizuchat.name} ᴄʜᴀᴛʙᴏᴛ ɪꜱ ᴀʟɪᴠᴇ 💫 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴀ ᴘɪɴɢ ᴏꜰ\n\n**➥** `{ms}` ms\n**➲ ᴄᴘᴜ:** {CPU}\n**➲ ʀᴀᴍ:** {RAM}\n**➲ ᴅɪsᴋ:** {DISK}\n**➲ ᴜᴘᴛɪᴍᴇ »** {UP}\n\n<b>||**๏ ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ [𝐒𝐩𝐚𝐫𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫](https://t.me/{OWNER_USERNAME})**||</b>",
         reply_markup=InlineKeyboardMarkup(PNG_BTN),
     )
     if message.chat.type == ChatType.PRIVATE:
